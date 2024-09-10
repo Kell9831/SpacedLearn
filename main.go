@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/Kell9831/SpacedLearn/user"
+)
 
 type menuOption int 
 
@@ -30,9 +33,9 @@ func main()  {
 
 		switch userAction {
 		case REGISTER:
-			fmt.Println("register")
+			user.Register()
 		case LOGIN:
-			fmt.Println("login")
+			user.Login()
 
 		default:
 			userAction = UNSELECTED
