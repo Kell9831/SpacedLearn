@@ -7,6 +7,7 @@ import (
 
 	"github.com/Kell9831/SpacedLearn/models"
 	"github.com/Kell9831/SpacedLearn/utils"
+	"github.com/Kell9831/SpacedLearn/learn"
 )
 
 func Register()  {

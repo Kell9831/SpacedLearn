@@ -1,10 +1,1 @@
-[
-    {
-        "Name": "kelly",
-        "CurrentProgress": null
-    },
-    {
-        "Name": "alex",
-        "CurrentProgress": null
-    }
-]
+[{"Name":"kelly","CurrentProgress":[{"Word":"eat","Translation":"comer","CountSuccesses":0,"RetentionRate":0},{"Word":"run","Translation":"correr","CountSuccesses":1,"RetentionRate":25},{"Word":"walk","Translation":"caminar","CountSuccesses":0,"RetentionRate":0},{"Word":"learn","Translation":"aprender","CountSuccesses":2,"RetentionRate":50},{"Word":"sleep","Translation":"dormir","CountSuccesses":2,"RetentionRate":50}]},{"Name":"alex","CurrentProgress":[{"Word":"walk","Translation":"caminar","CountSuccesses":0,"RetentionRate":0},{"Word":"eat","Translation":"comer","CountSuccesses":0,"RetentionRate":0},{"Word":"learn","Translation":"aprender","CountSuccesses":2,"RetentionRate":50},{"Word":"sleep","Translation":"dormir","CountSuccesses":2,"RetentionRate":50},{"Word":"run","Translation":"correr","CountSuccesses":2,"RetentionRate":50}]}]

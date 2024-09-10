@@ -8,6 +8,6 @@ type User struct{
 type Word struct {
 	Word string
 	Translation string
-	CountSeccesses int
+	CountSuccesses int
 	RetentionRate int
 }
